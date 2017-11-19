@@ -1,0 +1,7 @@
+C:\Users\Vinogradov\Documents\Visual Studio 2017\Projects\Crypto_Lab3\Crypto_Lab3\bin\Debug\Crypto_Lab3.exe.config
+C:\Users\Vinogradov\Documents\Visual Studio 2017\Projects\Crypto_Lab3\Crypto_Lab3\bin\Debug\Crypto_Lab3.exe
+C:\Users\Vinogradov\Documents\Visual Studio 2017\Projects\Crypto_Lab3\Crypto_Lab3\bin\Debug\Crypto_Lab3.pdb
+C:\Users\Vinogradov\Documents\Visual Studio 2017\Projects\Crypto_Lab3\Crypto_Lab3\obj\Debug\Crypto_Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Vinogradov\Documents\Visual Studio 2017\Projects\Crypto_Lab3\Crypto_Lab3\obj\Debug\Crypto_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Vinogradov\Documents\Visual Studio 2017\Projects\Crypto_Lab3\Crypto_Lab3\obj\Debug\Crypto_Lab3.exe
+C:\Users\Vinogradov\Documents\Visual Studio 2017\Projects\Crypto_Lab3\Crypto_Lab3\obj\Debug\Crypto_Lab3.pdb
